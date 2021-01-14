@@ -1,0 +1,11 @@
+#cabeza1 {background-color: #fd0100 }
+li{ display: inline;
+background-color: #33ff33 }
+#barralateral {background-color: #ffff00;
+ float: left;
+ height: 720px}
+
+#contenido1 {background-color: #0000ff;
+margin-left: 150px; padding-left: 15px ; padding-top: 20px}
+
+#pie {background-color: #ff3385;margin-left: 150px}
